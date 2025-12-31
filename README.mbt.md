@@ -1,4 +1,4 @@
-# encoding_sjis_mbt
+# encoding_sjis
 
 encoding_rs-compliant Shift_JIS decoder for MoonBit.
 
@@ -15,7 +15,7 @@ encoding_rs-compliant Shift_JIS decoder for MoonBit.
 
 ```moonbit
 [dependencies]
-encoding_sjis_mbt = "{ version = \"0.1.0\" }"
+encoding_sjis = "{ version = \"0.1.0\" }"
 ```
 
 ## Usage

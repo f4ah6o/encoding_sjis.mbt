@@ -2,7 +2,7 @@
   "is-main": true,
   "import": [
     {
-      "path": "f4ah6o/encoding_sjis_mbt",
+      "path": "f4ah6o/encoding_sjis",
       "alias": "lib"
     }
   ]
